@@ -1,0 +1,1 @@
+keyboard case data for "vision" keyboard
